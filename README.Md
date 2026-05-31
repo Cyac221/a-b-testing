@@ -128,11 +128,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 4. Download the dataset
-
-Download `ab_data.csv` from [Kaggle](https://www.kaggle.com/datasets/zhangluyuan/ab-testing) and place it in the `data/` folder.
-
-### 5. Run the notebook
+### 4. Run the notebook
 
 ```bash
 jupyter notebook ab_test.ipynb
