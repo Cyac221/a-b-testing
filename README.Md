@@ -135,7 +135,7 @@ Download `ab_data.csv` from [Kaggle](https://www.kaggle.com/datasets/zhangluyuan
 ### 5. Run the notebook
 
 ```bash
-jupyter notebook ab_testing.ipynb
+jupyter notebook ab_test.ipynb
 ```
 
 ---
