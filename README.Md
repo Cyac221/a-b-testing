@@ -139,11 +139,41 @@ jupyter notebook ab_test.ipynb
 ## Requirements
 
 ```
-pandas
-numpy
-statsmodels
-matplotlib
-jupyter
+asttokens==3.0.1
+colorama==0.4.6
+comm==0.2.3
+debugpy==1.8.20
+decorator==5.3.1
+executing==2.2.1
+ipykernel==7.2.0
+ipython==9.14.0
+ipython_pygments_lexers==1.1.1
+jedi==0.20.0
+jupyter_client==8.8.0
+jupyter_core==5.9.1
+matplotlib-inline==0.2.2
+nest-asyncio==1.6.0
+numpy==2.4.6
+packaging==26.2
+pandas==3.0.3
+parso==0.8.7
+patsy==1.0.2
+platformdirs==4.10.0
+prompt_toolkit==3.0.52
+psutil==7.2.2
+pure_eval==0.2.3
+Pygments==2.20.0
+python-dateutil==2.9.0.post0
+pyzmq==27.1.0
+scipy==1.17.1
+six==1.17.0
+stack-data==0.6.3
+statsmodels==0.14.6
+tornado==6.5.6
+traitlets==5.15.0
+tzdata==2026.2
+wcwidth==0.7.0
+
 ```
 
 ---
